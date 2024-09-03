@@ -3,7 +3,7 @@
 
 ---
 
-Initial commits; stand in everything!
+Initial commits; stand-in everything!
 
 This tool is used as a way to easy access todo items and notes on a certain task.
 <br/>&nbsp;Mixed with some freelancer tools I need, like a clock for my hours while working or pending deadlines.
