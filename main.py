@@ -48,7 +48,7 @@ backup_path = os.path.join(backup_path, "taskList.json")
 backup_frequency = 24 * 60 * 60  # 24 hours
 
 # Caution, running two instances will stomp on each other's feet when saving
-runLockCheck = False
+runLockCheck = True
 
 # -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
 # -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
