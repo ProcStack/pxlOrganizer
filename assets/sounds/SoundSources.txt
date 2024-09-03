@@ -1,0 +1,39 @@
+*Note : UNIVERSFIELD on pixabay makes a ton of great UI and game sound assets, highly suggested!
+
+
+alert_knock.wav - ( Unmodified )
+  Message pop alert
+  https://mixkit.co/free-sound-effects/pop/
+
+alert_light.wav - 
+  UNIVERSFIELD - Level Up 3
+  https://pixabay.com/sound-effects/level-up-3-199576/
+
+alert_medium.wav - 
+  UNIVERSFIELD - Level Up
+  https://pixabay.com/sound-effects/level-up-191997/
+
+task_complete.wav - 
+  Uplifting flute notification
+  https://mixkit.co/free-sound-effects/flute/
+
+task_deleted.wav - 
+  Video game mystery alert
+  https://mixkit.co/free-sound-effects/alerts/
+
+task_end.wav - 
+  Happy bell alert
+  https://mixkit.co/free-sound-effects/bell/
+
+task_nudge.wav - ( Modified, pitch shifted down and compressed )
+  Message pop alert
+  https://mixkit.co/free-sound-effects/pop/
+
+task_stall.wav - 
+  irinairinafomicheva - Stop
+  https://pixabay.com/sound-effects/stop-13692/
+
+task_start.wav - 
+  Happy bell alert
+  https://mixkit.co/free-sound-effects/bell/
+  

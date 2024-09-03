@@ -1,7 +1,7 @@
 ###
 #
 # Title: Task Organizer :: 0.1.0
-# Author: Kevin Edzenga; Frayed Fables LLC.
+# Author: Kevin Edzenga
 # Date: 2024-09-02
 # Description: A task organizer with a list of tasks, notes, ideas, bugs, email needs, and more.
 #
